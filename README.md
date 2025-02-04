@@ -26,7 +26,7 @@ streamlit run app.py
 - The system will display the top 10 recommended movies based on content similarity.
 - Each recommendation includes the movie poster and title.
 # Data
-The system uses the TMDB 5000 Movie Dataset, which includes information about movie titles, genres, keywords, cast, and crew.
+The system uses the TMDB 5000 Movie Dataset from Kaggle, which includes information about movie titles, genres, keywords, cast, and crew.
 # Dependencies
 - pandas 
 - Requests 
