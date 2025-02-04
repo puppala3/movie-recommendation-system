@@ -9,7 +9,7 @@ This project is a content-based movie recommendation system built with Python, u
 To run this project, you need to have Python installed on your system. Then follow these steps
 1. Clone the repository:
 ```bash
-conda create -p name python==3.10 -y
+https://github.com/puppala3/movie-recommendation-system.git
 ```
 2. Install the required dependencies:
 ```bash
